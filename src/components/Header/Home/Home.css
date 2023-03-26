@@ -1,0 +1,23 @@
+.home{
+    color: black;
+}
+.home button{
+    color: black;
+    background-color: #FF9900;
+    border-radius: 0px;
+}
+.sale-up{
+    color: #FF9900;
+    font-weight: 500;
+}
+.home-section{
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    align-items: center;
+    padding-top: 40px;
+}
+.home-img{
+    width: 350px;
+    border-radius: 20px;
+}
